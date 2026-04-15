@@ -3,7 +3,7 @@
 ## Descrição
 Projeto criado utilizando apenas o terminal do Ubuntu
 
-## COmandos Utilizados
+## Comandos Utilizados
 - pwd
 - ls
 - mkdir
