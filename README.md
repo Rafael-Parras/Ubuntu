@@ -1,19 +1,30 @@
-# Projeto Web via Terminal Ubuntu
+# 🌐 Projeto Web via Terminal
 
-## Descrição
-Projeto criado utilizando apenas o terminal do Ubuntu
+## 📌 Descrição
 
-## Comandos Utilizados
-* `pwd`: Para localizar meu diretório atual.
-* `ls`: Listar os arquivos na pasta
-* `mkdir` Para criar a estrutura de pastas (`css`, `js`, `img`).
-* `touch`: Para criar arquivos de código e este README.
-* `cp`: Para copiar arquivos.
-* `mv`: Para mover arquivos.
-* `rm`: Para remover arquivos.
-* `nano`: Para modificar arquivos.
-* `vim`: Para modificar arquivos e CSS.
+Este projeto foi desenvolvido utilizando apenas o terminal do Ubuntu.
+O objetivo foi praticar comandos básicos de navegação, criação e manipulação de arquivos.
 
-## Dificuldades
-- Uso inicial do VIM
-- Comandos de navegação no terminal
+---
+
+## 🛠️ Comandos Utilizados
+
+* `pwd` → mostrar o diretório atual
+* `ls` → listar arquivos e pastas
+* `cd` → navegar entre diretórios
+* `mkdir` → criar pastas
+* `touch` → criar arquivos
+* `cp` → copiar arquivos
+* `mv` → mover/renomear arquivos
+* `rm` → remover arquivos
+* `nano` → editar arquivos
+* `vim` → editar arquivos
+
+---
+
+## ⚠️ Dificuldades Encontradas
+
+* No início, tive dificuldade em usar o **Vim**, principalmente para sair e salvar (`:wq`).
+* Também foi complicado lembrar alguns comandos no começo.
+
+---
